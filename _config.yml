@@ -1,4 +1,3 @@
-layout_spectrum: 0.7872702011372894
 typography_spectrum: 0.5482760576996952
 color:
   brandStrength: 0.4083929043263197
@@ -6,9 +5,18 @@ color:
   saturation: 0.9820845129434019
   rhythmicContrast: 0.8362820453476161
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.7872702011372894
+author:
+  name: Aingeal Rose
+  email: aingealrose@aingealrose.com
+  url: 'http://aingealrose.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55ea2bf9-7c1e-4c6d-88d0-cef08e917cd2.png
 name: A Time of Change
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9135cdf-376a-4f31-b762-eb068e94c92c.png
